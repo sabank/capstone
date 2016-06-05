@@ -1,0 +1,14 @@
+This Shiny app was developed for the *Capstone Project* of the 
+[Johns Hopkins Coursera Data Science 
+Specialization](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage).
+
+###  How to use this application?
+
+1 Simply, enter a phrase in the text box input.
+
+2 Use the slider to select the number of words to be predicted.
+
+In the "Prediction" tab, the highest probable prediction will appear in red and the remaining predicted words will appear below.
+
+
+
