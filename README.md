@@ -47,6 +47,3 @@ Coursera - Stanford - [Natural Language Processing](https://www.coursera.org/cou
 
 Shiny app deployment:
 https://www.shinyapps.io/ 
-
-GitHub:
-https://github.com/
