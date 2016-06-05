@@ -41,8 +41,6 @@ The file was specifically processed for the needs of this project. The focus was
 -   N-gram tokenization
 -   Training and building of the prediction algorithm
 
-Access the GitHub Repo [here](https://github.com/sabank/capstone.git)
-
 Resources
 ========================================================
 
