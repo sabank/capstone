@@ -1,9 +1,5 @@
 The Next Word Predictor
 ========================================================
-title: A Shiny App for Natural Language Processing
-author: Sabank
-date: June 5th, 2016
-autosize: true
 
 Introduction
 ========================================================
